@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = Hamed970@hotmail.com
+	name = Hamed Aljamry
